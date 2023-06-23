@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/newprojectbranch/Mystoreproject">
+<classes>
+    <class name="com.mystore.testcases.TC_AccountLogin"></class>
+    <class name="com.mystore.testcases.TC_Searchproduct"></class>
+    <class name="com.mystore.testcases.TC_BuyProduct"></class>
+    <class name="com.mystore.testcases.TC_AddProductToWishlist"></class>
+    <class name="com.mystore.testcases.TC_RemoveAddressHistory"></class>
+    <class name="com.mystore.testcases.TC_NavigationFlow"></class>
+    <class name="com.mystore.testcases.TC_Edit_information"></class>
+</classes>
+</test>
+</suite>
